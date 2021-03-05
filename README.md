@@ -228,3 +228,6 @@ pip3 install -r requirements.txt
                     incorrect.append(x)
                     print('Current Accuracy: ' + str(acc/i))
     ```
+    
+    
+# Visit our website!: https://aquation.ml
